@@ -1,5 +1,5 @@
 # muter
-Mutes users on twitter using Codebird
+Mutes users on twitter using Codebird (https://github.com/jublonet/codebird-php)
 
 ## Installation
 Download files and upload to a directory on your website
