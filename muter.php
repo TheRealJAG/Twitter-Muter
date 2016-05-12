@@ -14,7 +14,6 @@ $cb->setToken($ACCESS_TOKEN, $ACCESS_TOKEN_SECRET);
 * Settings
 */
     if ($_GET['next_cursor']) $params['cursor'] = $_GET['next_cursor'];
-    
     if ($_GET['page']) $page = $_GET['page'] + 1;
     else $page = 1; 
     
