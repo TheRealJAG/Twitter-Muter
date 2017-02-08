@@ -3,6 +3,7 @@ Mutes users on twitter using Codebird (https://github.com/jublonet/codebird-php)
 
 ## Installation
 Download files and upload to a directory on your website
+
 Edit muter.php and edit the following: 
  - $CONSUMER_KEY = '';
  - $CONSUMER_SECRET = '';
