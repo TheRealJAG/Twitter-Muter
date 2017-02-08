@@ -17,5 +17,5 @@ The script will go through all your followers and mute users who
  - Don't have a background image
  - Language is not Engish 
 
-# RoadMap
+## RoadMap
 - Turn off retweets for all users option
