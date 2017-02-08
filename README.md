@@ -1,4 +1,4 @@
-# muter
+# Twitter-Muter
 Mutes users on twitter using Codebird (https://github.com/jublonet/codebird-php)
 
 ## Installation
@@ -16,3 +16,6 @@ The script will go through all your followers and mute users who
  - Username is blank
  - Don't have a background image
  - Language is not Engish 
+
+# RoadMap
+- Turn off retweets for all users option
